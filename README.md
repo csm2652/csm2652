@@ -7,7 +7,7 @@
 천천히 둘러보시다 가세요~
 
 - 📫 E-mail: csm48173738@gmail.com
-- 🌱 Develop Blog: https://velog.io/@csm2652
+- 🌱 Develop Blog: https://velog.io/@csm2652 | https://risingjade.tistory.com/
 
 <!--
 **csm2652/csm2652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
